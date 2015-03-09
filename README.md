@@ -2,4 +2,4 @@
 Tutorial
 First change.
 
-Figuring out this Get thing.
+Figuring out this Git thing.
